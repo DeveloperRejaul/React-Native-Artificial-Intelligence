@@ -2,7 +2,7 @@
 
 A brief description of what this project does and who it's for
 
-## React Native Artificial Intelligence
+## React Native Artificial Intelligence for Mobile and Web
 
 Add badges from somewhere like: [shields.io](https://shields.io/)
 
@@ -12,12 +12,15 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 
 <!-- all link Demo  -->
 
-[websitelink]: "http://www.github.com"
-[facebooklink]: `http://www.github.com`
+[disable]: "http://www.github.com"
+
+<!-- all link Source code  -->
+
+[IC]: https://github.com/DeveloperRejaul/React-Native-Artificial-Intelligence/tree/main/expoApp/src/Projects/ImageCalcification
 
 ## API Reference
 
-| SL  | Projects            | Demo                                              | Code                                                         |
-| :-- | :------------------ | :------------------------------------------------ | :----------------------------------------------------------- |
-| 01  | Image Calcification | [Demo 1][websitelink] <br/> [Demo 2][websitelink] | [Expo CLI][websitelink] <br/>[React Native CLI][websitelink] |
-| 02  | Pose Detection      | [Demo 1][websitelink] <br/> [Demo 2][websitelink] | [Expo CLI][websitelink] <br/>[React Native CLI][websitelink] |
+| SL  | Projects            | Demo                                      | Code                                                 |
+| :-- | :------------------ | :---------------------------------------- | :--------------------------------------------------- |
+| 01  | Image Calcification | [Demo 1][disable] <br/> [Demo 2][disable] | [Expo CLI][IC] <br/>[React Native CLI][disable]      |
+| 02  | Pose Detection      | [Demo 1][disable] <br/> [Demo 2][disable] | [Expo CLI][disable] <br/>[React Native CLI][disable] |
