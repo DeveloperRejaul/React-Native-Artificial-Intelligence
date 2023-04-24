@@ -25,7 +25,7 @@ export default function ICD1() {
         const image5 = require("../../../assist/img/Rejaul-Internet.jpg");
         const image4 = require("../../../assist/img/AbuBakkar.jpg");
 
-        const imageAssetPath = Image.resolveAssetSource(image5);
+        const imageAssetPath = Image.resolveAssetSource(image2);
         const response = await fetch(
           imageAssetPath.uri,
           {},
